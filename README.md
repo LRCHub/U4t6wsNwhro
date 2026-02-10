@@ -1,0 +1,71 @@
+# Gottz & MUD – Adrenalin (Remix)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Stay Stronger 今ある自分を見つめ Let it Go Now
+悪魔の囁きかき消しMurder
+忙しい日々から抜け出し Slow down
+Meditateする為に I get $toner
+美味い話には裏がありそうだ
+昔なら手を染めたが I be sober
+やるべき事だけやり Makin' More Money
+誰がどう言おうが I DON’T GIVE A F*** THAT
+Shawty U A Bad Bad Do It Like That
+DOGG From The Big Bad Bang Bang
+IKN Don't Ring My Bell Right Now
+I’m on Big Big Gas Bitch You Need to Back Back
+I’m a Stoner Not a Baller
+You Don't Know Shit  お前の女俺が寝た女
+侮るな Bitch You A Poser
+マラドーナ 俺の出番でゲームオーバー
+また飛んだあいつはまだオリの中
+Sober必要無いかもCola
+アナコンダ お前丸飲みする残さず
+泣く子も黙らせる俺の歌
+Thottie U A Bad Bad Do It Like That
+Sadmadjake Shawty U Like It Like That
+お前と一緒に吸いたくねえ
+DOGG Bitch I Know U Like It Like That
+まだ交差している 道を歩いてるForce 1
+クールに考え 上げてく 勝算
+結果を金にしてる Big Baller
+文句ばっかりのおまえらはどうだ？
+追い抜かしていくLike Mony Horse
+Freestyle くらいに超テキトー
+この組み合わせは Many mo’
+瞬く間に生み出す¥en Get it on,ey
+寝てる暇なし　貧乏暇なし
+外へ飛び出し　浴びる日差し
+戻れない　振り出し
+年中どんな時も働き24/7 Focus
+マイナスよりプラス
+AクラスよりS またStudio DESK
+女の子とSEX God Blessed
+心臓バクバク　鳴る早く
+文句ばっかの奴　追い抜かす
+手首20万　金　光らしYeah Yeah
+また砕く　 固いマリ Yeah Yeah
+要らない　Bitchのだる絡み
+財布 PUSSY みたく濡れてる
+天井当たっても　突き出るね
+HotelでStick　燃やしすぎ鳴らすBell
+HellかHeaven　どうでもいいや
+今日もフィーバー　I’m Runnin like チーター
+まだ交差している 道を歩いてるForce 1
+クールに考え 上げてく 勝算
+結果を金にしてる Big Baller
+文句ばっかりのおまえらはどうだ？
+追い抜かしていくLike Mony Horse
+Freestyle くらいに超テキトー
+この組み合わせは Many mo’
+瞬く間に生み出す¥en Get it on,ey
+Stay Stronger 今ある自分を見つめ Let it Go Now
+悪魔の囁きかき消しMurder
+忙しい日々から抜け出し Slow down
+Meditateする為に I get $toner
+美味い話には裏がありそうだ
+昔なら手を染めたが I be sober
+やるべき事だけやりMakin' More Money
+誰がどう言おうが I DON’T GIVE A F*** THAT
+```
