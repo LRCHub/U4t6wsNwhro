@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Adrenalin (Remix)",
+  "base_artist": "Gottz & MUD",
+  "createdAt": "2026-02-10T05:02:11.131391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adrenalin - Remix",
+      "artist": "The Boy The G",
+      "has_synced": true,
+      "path": "select/01_Adrenalin_-_Remix_The_Boy_The_G.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Adrenalin (Remix) (Remix)",
+      "artist": "The Boy The G, MilleniumKid, Jbs",
+      "has_synced": true,
+      "path": "select/02_Adrenalin_(Remix)_(Remix)_The_Boy_The_G,_MilleniumKid,_Jbs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Adrenalin (Remix)",
+      "artist": "The Boy The G\u0000MilleniumKid\u0000JBS",
+      "has_synced": true,
+      "path": "select/03_Adrenalin_(Remix)_The_Boy_The_G\u0000MilleniumKid\u0000JBS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Adrenalin (Remix) [feat. Jin Dogg, MonyHorse & DJ KANJI]",
+      "artist": "Gottz & MUD",
+      "has_synced": false,
+      "path": "select/pl_01_Adrenalin_(Remix)_[feat._Jin_Dogg,_MonyHorse_&_DJ_KANJI]_Gottz_&_MUD.txt"
+    }
+  ]
+}
